@@ -230,6 +230,12 @@ android_app_import {
 }
 
 dex_import {
+	name: "WfdCommon",
+	owner: "oneplus",
+	jars: ["proprietary/system/framework/WfdCommon.jar"],
+}
+
+dex_import {
 	name: "tcmclient",
 	owner: "oneplus",
 	jars: ["proprietary/system/framework/tcmclient.jar"],

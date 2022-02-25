@@ -1392,6 +1392,7 @@ PRODUCT_PACKAGES += \
     daxService \
     ims \
     qcrilmsgtunnel \
+    WfdCommon \
     tcmclient \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
